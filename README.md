@@ -1,3 +1,94 @@
+# README
+
+## Form Application with React (English)
+
+This is a responsive form application built with React. The project demonstrates form handling, validation, and styling in React.
+
+### About
+
+This project was created for learning purposes, based on the React projects from [GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-projects/). It showcases a form with various input types including text fields, select dropdowns, radio buttons, checkboxes, and textareas.
+
+### Features
+
+- Multiple input field types
+- Form validation
+- Responsive design
+- Clean UI with CSS styling
+
+### Installation
+
+```bash
+# Clone the repository
+git clone [your-repository-url]
+
+# Navigate to the project directory
+cd 1form-using
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+### Technologies Used
+
+- React
+- CSS
+- JavaScript
+
+### Credits
+
+Original concept from [GeeksforGeeks React Projects](https://www.geeksforgeeks.org/reactjs-projects/)
+
+---
+
+## React ile Form Uygulaması (Türkçe)
+
+Bu, React ile oluşturulmuş duyarlı bir form uygulamasıdır. Proje, React'te form işleme, doğrulama ve stillendirmeyi göstermektedir.
+
+### Hakkında
+
+Bu proje, [GeeksforGeeks](https://www.geeksforgeeks.org/reactjs-projects/) adresindeki React projelerinden yararlanarak öğrenme amaçlı oluşturulmuştur. Metin alanları, açılır menüler, radyo düğmeleri, onay kutuları ve metin alanları dahil olmak üzere çeşitli giriş türlerine sahip bir formu göstermektedir.
+
+### Özellikler
+
+- Çoklu giriş alanı türleri
+- Form doğrulama
+- Duyarlı tasarım
+- CSS stili ile temiz kullanıcı arayüzü
+
+### Kurulum
+
+```bash
+# Depoyu klonlayın
+git clone [depo-url'niz]
+
+# Proje dizinine gidin
+cd 1form-using
+
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm start
+```
+
+### Kullanılan Teknolojiler
+
+- React
+- CSS
+- JavaScript
+
+### Kaynaklar
+
+Orijinal konsept: [GeeksforGeeks React Projeleri](https://www.geeksforgeeks.org/reactjs-projects/)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
